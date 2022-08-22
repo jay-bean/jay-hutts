@@ -4181,3 +4181,16 @@ input, select, textarea {
 #fun-span {
   font-weight: bold;
 }
+
+#about-me-img {
+  width: 100px;
+  border-radius: 4px;
+  margin-bottom: .5em;
+}
+
+#about-img-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
